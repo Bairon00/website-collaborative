@@ -1,3 +1,8 @@
 body{
-    background: #BDBDBD;
+  background: #BDBDBD;
+}
+.hero-image {
+  background-image: url('./img/bg.jpg');
+  background-size: cover; 
+  position: relative;
 }
