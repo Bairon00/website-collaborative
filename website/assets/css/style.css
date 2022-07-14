@@ -1,3 +1,10 @@
 body{
-    background: white;
+  background: #BDBDBD;
+}
+.hero-image {
+  background-image: url('/website/assets/img/bg.jpg');
+  background-size: cover; 
+  position: relative;
+  height: 600px;
+  width: 100%;
 }
